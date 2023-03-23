@@ -68,7 +68,7 @@ I'd love to learn more about Flexbox and Grid. Then alot of other css properties
 
 ### Useful resources
 
-- [Example resource 1](https://www.googlefonts.com) - This helped me with getting the font off the internet.
+- [Google Fonts](https://www.googlefonts.com) - This helped me with getting the font off the internet.
 
 ## Author
 
