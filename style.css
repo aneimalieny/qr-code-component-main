@@ -37,6 +37,7 @@ img{
 h1{
     font-weight: 700;
     color: hsl(218, 44%, 22%);
+    font-size: 20px;
 }
 p{
     font-size: 15px;
